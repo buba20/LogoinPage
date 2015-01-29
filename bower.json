@@ -1,0 +1,14 @@
+{
+  "name": "LoginPage",
+  "version": "0.0.0",
+  "homepage": "https://github.com/buba20/LogoinPage",
+  "authors": [
+    "buba20 <buba20@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "marionette": "~2.3.1",
+    "bootstrap.css": "~2.3.2"
+  }
+}
